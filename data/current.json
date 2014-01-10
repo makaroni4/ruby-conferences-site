@@ -120,6 +120,12 @@
 		"url" : "http://madisonruby.org/",
 		"twitter" : "madisonruby"
 	}, {
+		"name" : "Ruby Conf Brazil",
+		"location" : "São Paulo, Brazil",
+		"dates" : "August 28-29, 2014",
+		"url" : "http://www.rubyconf.com.br/",
+		"twitter" : "rubyconfbr"
+	}, {
 		"name" : "WindyCityRails",
 		"location" : "Chicago, IL",
 		"dates" : "September 4-5, 2014",
